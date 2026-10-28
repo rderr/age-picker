@@ -20,7 +20,7 @@ the avatar previews that age before you commit.
 </p>
 
 <p align="center">
-  <img src="docs/ages.png" alt="Avatar at ages 0, 5, 18, 35, 50, 65, 80, 100, 110, 118, 128, 136 and 140">
+  <img src="docs/ages.png" width="756" alt="Avatar at ages 0, 5, 18, 35, 50, 65, 80, 95, 110, 118, 126, 132, 136 and 140">
 </p>
 
 ## Quick start

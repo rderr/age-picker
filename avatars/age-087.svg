@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Avatar, age 87">
-  <circle cx="120" cy="120" r="120" fill="#ecebe8"/>
+  <circle cx="120" cy="120" r="120" fill="#edf1f6"/>
   <path d="M33.12 240 C33.12 183.75 72.21 175.75 120 175.75 C167.79 175.75 206.88 183.75 206.88 240 Z" fill="#8a9a7b"/>
   <rect x="107.5" y="150.7" width="25" height="37.05" fill="#d4baa5"/>
-  <ellipse cx="120" cy="106.2" rx="58.88" ry="50.76" fill="#eae9e6" opacity="0.8"/>
+  <ellipse cx="120" cy="106.2" rx="58.88" ry="50.76" fill="#d2cfc9" opacity="0.8"/>
   <ellipse cx="67.85" cy="113.28" rx="7" ry="11" fill="#e6cab3" stroke="#857568" stroke-width="0" />
   <ellipse cx="172.15" cy="113.28" rx="7" ry="11" fill="#e6cab3"/>
   <clipPath id="head"><ellipse cx="120" cy="109.28" rx="50.15" ry="61.42"/></clipPath>
@@ -29,8 +29,8 @@
   <path d="M151.35 102.76 L157.35 100.36" stroke="#857568" stroke-width="1.1" opacity="0.69" stroke-linecap="round"/>
   <path d="M151.35 104.36 L157.35 104.36" stroke="#857568" stroke-width="1.1" opacity="0.69" stroke-linecap="round"/>
   <path d="M151.35 105.96 L157.35 108.36" stroke="#857568" stroke-width="1.1" opacity="0.69" stroke-linecap="round"/>
-  <path d="M92.65 91.73 Q98.94 87.73 105.22 91.73" fill="none" stroke="#989796" stroke-width="2.56" stroke-linecap="round"/>
-  <path d="M134.78 91.73 Q141.06 87.73 147.35 91.73" fill="none" stroke="#989796" stroke-width="2.56" stroke-linecap="round"/>
+  <path d="M92.65 91.73 Q98.94 87.73 105.22 91.73" fill="none" stroke="#888783" stroke-width="2.56" stroke-linecap="round"/>
+  <path d="M134.78 91.73 Q141.06 87.73 147.35 91.73" fill="none" stroke="#888783" stroke-width="2.56" stroke-linecap="round"/>
   <path d="M98.94 82.73 Q120 78.73 141.06 82.73" fill="none" stroke="#857568" stroke-width="1.2" opacity="0.7"/>
   <path d="M101.95 76.73 Q120 72.73 138.05 76.73" fill="none" stroke="#857568" stroke-width="1.2" opacity="0.7"/>
   <path d="M104.95 70.73 Q120 66.73 135.04 70.73" fill="none" stroke="#857568" stroke-width="1.2" opacity="0.7"/>
@@ -43,8 +43,8 @@
   <circle cx="101.74" cy="128.49" r="2.4" fill="#a18d7d" opacity="0.75" clip-path="url(#head)"/>
   <circle cx="120.3" cy="102.69" r="2.03" fill="#a18d7d" opacity="0.75" clip-path="url(#head)"/>
   <mask id="capmask"><rect width="240" height="240" fill="#fff"/><circle cx="120" cy="191.19" r="120" fill="#000"/></mask>
-  <ellipse cx="120" cy="93.92" rx="55.3" ry="51.91" fill="#eae9e6" mask="url(#capmask)" opacity="0.8"/>
-  <path d="M114 45.85 Q118 57.06 119 69.19" fill="none" stroke="#d3d2cf" stroke-width="1.4" opacity="0.6"/>
+  <ellipse cx="120" cy="93.92" rx="55.3" ry="51.91" fill="#d2cfc9" mask="url(#capmask)" opacity="0.8"/>
+  <path d="M114 45.85 Q118 57.06 119 69.19" fill="none" stroke="#bdbab5" stroke-width="1.4" opacity="0.6"/>
   <ellipse cx="98.94" cy="104.36" rx="11.29" ry="9.38" fill="rgba(255,255,255,0.12)" stroke="#555" stroke-width="1.7"/>
   <ellipse cx="141.06" cy="104.36" rx="11.29" ry="9.38" fill="rgba(255,255,255,0.12)" stroke="#555" stroke-width="1.7"/>
   <path d="M110.22 104.36 Q120 101.36 129.78 104.36" fill="none" stroke="#555" stroke-width="1.7"/>

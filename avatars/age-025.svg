@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Avatar, age 25">
-  <circle cx="120" cy="120" r="120" fill="#eef1f3"/>
+  <circle cx="120" cy="120" r="120" fill="#eef3f7"/>
   <path d="M28 240 C28 188 69.4 180 120 180 C170.6 180 212 188 212 240 Z" fill="#3aa6a0"/>
   <rect x="106.15" y="148.13" width="27.7" height="43.87" fill="#e0b290"/>
   <ellipse cx="120" cy="104.99" rx="61" ry="50.74" fill="#5b3a21" opacity="1"/>

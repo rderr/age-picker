@@ -83,10 +83,10 @@ def draw_person(age):
     skin = pw(age, [(0, "#fcd4c3"), (10, "#f8cba8"), (30, "#f1bf98"), (60, "#eabf9f"),
                     (90, "#e6cbb5"), (110, "#dccabd")])
     line = darken(skin, 0.42)
-    hair_col = pw(age, [(0, "#5b3a21"), (36, "#5b3a21"), (58, "#a39e98"), (72, "#e4e2de"), (110, "#f4f4f2")])
+    hair_col = pw(age, [(0, "#5b3a21"), (36, "#5b3a21"), (58, "#9a948d"), (72, "#cfccc6"), (110, "#d6d3ce")])
     shirt = pw(age, [(0, "#b7dcc9"), (2, "#b7dcc9"), (4, "#f2b35b"), (12, "#f2b35b"), (15, "#3aa6a0"),
                      (38, "#3aa6a0"), (45, "#7a6b9c"), (62, "#7a6b9c"), (70, "#8a9a7b"), (110, "#8a9a7b")])
-    bg = pw(age, [(0, "#eef3f8"), (110, "#ece9e4")])
+    bg = pw(age, [(0, "#eef3f8"), (110, "#edf1f5")])
 
     parts.append(f'<circle cx="{CX}" cy="{CX}" r="{CX}" fill="{bg}"/>')
 
