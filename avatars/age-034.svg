@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Avatar, age 34">
+  <circle cx="120" cy="120" r="120" fill="#edf0f2"/>
+  <path d="M28.69 240 C28.69 188 69.78 180 120 180 C170.22 180 211.31 188 211.31 240 Z" fill="#3aa6a0"/>
+  <rect x="106.35" y="148.31" width="27.3" height="43.69" fill="#ddb08d"/>
+  <ellipse cx="120" cy="104.98" rx="61" ry="50.74" fill="#5b3a21" opacity="1"/>
+  <ellipse cx="67" cy="112" rx="7" ry="11" fill="#f0bf99" stroke="#8b6f59" stroke-width="0" />
+  <ellipse cx="173" cy="112" rx="7" ry="11" fill="#f0bf99"/>
+  <clipPath id="head"><ellipse cx="120" cy="108" rx="51" ry="60.31"/></clipPath>
+  <ellipse cx="120" cy="108" rx="51" ry="60.31" fill="#f0bf99"/>
+  <ellipse cx="98.58" cy="103.18" rx="6.95" ry="6.42" fill="#fff"/>
+  <circle cx="98.58" cy="103.18" r="3.58" fill="#5c3f2a"/>
+  <circle cx="98.58" cy="103.18" r="1.97" fill="#1a1a1a"/>
+  <circle cx="97.33" cy="101.92" r="0.9" fill="#fff"/>
+  <ellipse cx="141.42" cy="103.18" rx="6.95" ry="6.42" fill="#fff"/>
+  <circle cx="141.42" cy="103.18" r="3.58" fill="#5c3f2a"/>
+  <circle cx="141.42" cy="103.18" r="1.97" fill="#1a1a1a"/>
+  <circle cx="140.17" cy="101.92" r="0.9" fill="#fff"/>
+  <path d="M91.63 88.93 Q98.58 84.93 105.53 88.93" fill="none" stroke="#5b3a21" stroke-width="2.41" stroke-linecap="round"/>
+  <path d="M134.47 88.93 Q141.42 84.93 148.37 88.93" fill="none" stroke="#5b3a21" stroke-width="2.41" stroke-linecap="round"/>
+  <path d="M121 107.18 Q119 120.49 115 120.49 Q119 124.49 124 121.49" fill="none" stroke="#8b6f59" stroke-width="1.57" stroke-linecap="round"/>
+  <path d="M106.28 136.95 Q120 144.65 133.72 136.95" fill="none" stroke="#78604c" stroke-width="2" stroke-linecap="round"/>
+  <path d="M110.39 137.95 Q120 143.88 129.61 137.95 Z" fill="#fff" opacity="0.9"/>
+  <mask id="capmask"><rect width="240" height="240" fill="#fff"/><circle cx="120" cy="190.61" r="120" fill="#000"/></mask>
+  <ellipse cx="120" cy="92.92" rx="57" ry="51.04" fill="#5b3a21" mask="url(#capmask)" opacity="1"/>
+  <path d="M114 45.69 Q118 56.74 119 68.61" fill="none" stroke="#6f523c" stroke-width="1.4" opacity="0.6"/>
+</svg>

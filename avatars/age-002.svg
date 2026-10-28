@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Avatar, age 2">
+  <circle cx="120" cy="120" r="120" fill="#eef3f8"/>
+  <path d="M64.8 240 C64.8 188 89.64 180 120 180 C150.36 180 175.2 188 175.2 240 Z" fill="#b7dcc9"/>
+  <rect x="109.56" y="151.33" width="20.89" height="40.67" fill="#e7c1af"/>
+  <ellipse cx="120" cy="113.23" rx="59.67" ry="42.88" fill="#5b3a21" opacity="1"/>
+  <ellipse cx="63.33" cy="120" rx="7" ry="11" fill="#fbd2be" stroke="#927a6e" stroke-width="0" />
+  <ellipse cx="176.67" cy="120" rx="7" ry="11" fill="#fbd2be"/>
+  <clipPath id="head"><ellipse cx="120" cy="116" rx="54.67" ry="55.33"/></clipPath>
+  <ellipse cx="120" cy="116" rx="54.67" ry="55.33" fill="#fbd2be"/>
+  <circle cx="89.93" cy="131.49" r="9.84" fill="#f28c8c" opacity="0.51"/>
+  <circle cx="150.07" cy="131.49" r="9.84" fill="#f28c8c" opacity="0.51"/>
+  <ellipse cx="97.04" cy="111.57" rx="8.83" ry="8.75" fill="#fff"/>
+  <circle cx="97.04" cy="111.57" r="4.87" fill="#5c3f2a"/>
+  <circle cx="97.04" cy="111.57" r="2.68" fill="#1a1a1a"/>
+  <circle cx="95.34" cy="109.87" r="1.22" fill="#fff"/>
+  <ellipse cx="142.96" cy="111.57" rx="8.83" ry="8.75" fill="#fff"/>
+  <circle cx="142.96" cy="111.57" r="4.87" fill="#5c3f2a"/>
+  <circle cx="142.96" cy="111.57" r="2.68" fill="#1a1a1a"/>
+  <circle cx="141.26" cy="109.87" r="1.22" fill="#fff"/>
+  <path d="M88.21 97.49 Q97.04 93.49 105.87 97.49" fill="none" stroke="#5b3a21" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M134.13 97.49 Q142.96 93.49 151.79 97.49" fill="none" stroke="#5b3a21" stroke-width="1.4" stroke-linecap="round"/>
+  <ellipse cx="120" cy="121.24" rx="3" ry="2" fill="#d5b2a2"/>
+  <path d="M111 142.56 Q120 148.39 129 142.56" fill="none" stroke="#7e695f" stroke-width="2" stroke-linecap="round"/>
+  <mask id="capmask"><rect width="240" height="240" fill="#fff"/><circle cx="120" cy="203.91" r="120" fill="#000"/></mask>
+  <ellipse cx="120" cy="102.17" rx="59.67" ry="47.16" fill="#5b3a21" mask="url(#capmask)" opacity="1"/>
+</svg>

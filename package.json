@@ -1,0 +1,25 @@
+{
+  "name": "age-picker",
+  "version": "1.0.0",
+  "description": "Birthday picker web component with an avatar that ages to match the selected year.",
+  "main": "dist/birthday-picker.bundle.js",
+  "files": [
+    "dist/",
+    "birthday-picker.js",
+    "avatars/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rderr/age-picker.git"
+  },
+  "homepage": "https://rderr.github.io/age-picker/",
+  "keywords": [
+    "web-component",
+    "birthday",
+    "date-picker",
+    "avatar",
+    "age"
+  ],
+  "author": "Robert Derr",
+  "license": "MIT"
+}

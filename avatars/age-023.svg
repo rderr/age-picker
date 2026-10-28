@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Avatar, age 23">
+  <circle cx="120" cy="120" r="120" fill="#eef1f4"/>
+  <path d="M29.02 240 C29.02 188 69.96 180 120 180 C170.04 180 210.98 188 210.98 240 Z" fill="#3aa6a0"/>
+  <rect x="106.11" y="148.1" width="27.78" height="43.9" fill="#e0b391"/>
+  <ellipse cx="120" cy="105" rx="61" ry="50.74" fill="#5b3a21" opacity="1"/>
+  <ellipse cx="67" cy="112" rx="7" ry="11" fill="#f3c39e" stroke="#8d715c" stroke-width="0" />
+  <ellipse cx="173" cy="112" rx="7" ry="11" fill="#f3c39e"/>
+  <clipPath id="head"><ellipse cx="120" cy="108" rx="51" ry="60.1"/></clipPath>
+  <ellipse cx="120" cy="108" rx="51" ry="60.1" fill="#f3c39e"/>
+  <circle cx="91.95" cy="124.83" r="9.18" fill="#f28c8c" opacity="0.05"/>
+  <circle cx="148.05" cy="124.83" r="9.18" fill="#f28c8c" opacity="0.05"/>
+  <ellipse cx="98.58" cy="103.19" rx="7.39" ry="6.89" fill="#fff"/>
+  <circle cx="98.58" cy="103.19" r="3.83" fill="#5c3f2a"/>
+  <circle cx="98.58" cy="103.19" r="2.11" fill="#1a1a1a"/>
+  <circle cx="97.24" cy="101.85" r="0.96" fill="#fff"/>
+  <ellipse cx="141.42" cy="103.19" rx="7.39" ry="6.89" fill="#fff"/>
+  <circle cx="141.42" cy="103.19" r="3.83" fill="#5c3f2a"/>
+  <circle cx="141.42" cy="103.19" r="2.11" fill="#1a1a1a"/>
+  <circle cx="140.08" cy="101.85" r="0.96" fill="#fff"/>
+  <path d="M91.19 88.36 Q98.58 84.36 105.97 88.36" fill="none" stroke="#5b3a21" stroke-width="2.34" stroke-linecap="round"/>
+  <path d="M134.03 88.36 Q141.42 84.36 148.81 88.36" fill="none" stroke="#5b3a21" stroke-width="2.34" stroke-linecap="round"/>
+  <path d="M121 107.19 Q119 119.58 115 119.58 Q119 123.58 124 120.58" fill="none" stroke="#8d715c" stroke-width="1.48" stroke-linecap="round"/>
+  <path d="M106.15 136.85 Q120 145.62 133.85 136.85" fill="none" stroke="#7a624f" stroke-width="2" stroke-linecap="round"/>
+  <path d="M110.31 137.85 Q120 144.75 129.69 137.85 Z" fill="#fff" opacity="0.9"/>
+  <mask id="capmask"><rect width="240" height="240" fill="#fff"/><circle cx="120" cy="190.74" r="120" fill="#000"/></mask>
+  <ellipse cx="120" cy="92.98" rx="57" ry="50.88" fill="#5b3a21" mask="url(#capmask)" opacity="1"/>
+  <path d="M114 45.9 Q118 56.92 119 68.74" fill="none" stroke="#6f523c" stroke-width="1.4" opacity="0.6"/>
+</svg>

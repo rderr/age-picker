@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Birthday Picker</title>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      background: #f6f7f9;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      color: #1f2328;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e3e6ea;
+      border-radius: 16px;
+      padding: 28px 32px;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, .06);
+    }
+    h1 { font-size: 18px; margin: 0 0 18px; font-weight: 600; }
+    output {
+      display: block;
+      margin-top: 18px;
+      font-size: 13px;
+      color: #6b7280;
+      font-variant-numeric: tabular-nums;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>When were you born?</h1>
+    <birthday-picker id="bday" name="birthday"></birthday-picker>
+    <output for="bday" id="out">Pick a date above.</output>
+  </div>
+
+  <script src="birthday-picker.js"></script>
+  <script>
+    const picker = document.getElementById("bday");
+    const out = document.getElementById("out");
+    picker.addEventListener("change", (e) => {
+      const { value, age } = e.detail;
+      out.textContent = value
+        ? `Selected ${value} (age ${age})`
+        : age === null ? "Pick a date above." : `Age ${age} — finish picking the date.`;
+    });
+  </script>
+</body>
+</html>
